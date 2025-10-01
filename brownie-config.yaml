@@ -1,0 +1,5 @@
+networks:
+  default: polygon-main-fork
+  polygon-main-fork:
+    host: https://polygon-rpc.com
+    chainid: 137
